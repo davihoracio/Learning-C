@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int x, maior = -1000000, pos = 0;
+    for (int i = 1; i <= 100; i++) {
+        scanf("%d", &x);
+        if (x > maior) {
+            maior = x;
+            pos = i;
+        }
+    }
+    printf("%d\n%d\n", maior, pos);
+    return 0;
+}

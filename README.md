@@ -14,7 +14,7 @@ O objetivo deste projeto é documentar o progresso no aprendizado da linguagem C
     * `math.h` (Funções Matemáticas)
     * `string.h` (Manipulação de Strings)
     * `stdlib.h` (Funções Gerais, como `abs`)
-'''
+```
 learning-c/
 │
 ├── 📁 Introdução/
@@ -28,7 +28,7 @@ learning-c/
 │
 └── 📁 Funções/
     # Soluções que aplicam modularização e criação de funções customizadas.
-'''
+```
 
 ## 📚 Tópicos e Desafios Abordados
 

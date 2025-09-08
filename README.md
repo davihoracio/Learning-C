@@ -14,6 +14,11 @@ O objetivo deste projeto é documentar o progresso no aprendizado da linguagem C
     * `math.h` (Funções Matemáticas)
     * `string.h` (Manipulação de Strings)
     * `stdlib.h` (Funções Gerais, como `abs`)
+ 
+## 📂 Estrutura do Repositório
+
+O repositório está organizado de forma incremental, seguindo uma trilha de aprendizado lógico:
+
 ```
 learning-c/
 │
